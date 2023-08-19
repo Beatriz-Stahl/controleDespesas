@@ -36,7 +36,13 @@
  Classe Usuario 
  atributos: nome
  cpf (deve conter um verificador de cpf para nao repetir, nem colocar um cpf inexistente)
- senha (?deve ser criptografada)
+ senha (deve ser criptografada)
+
+-Gerenciar usuario extends Usuario
+metodos para: cadastrar
+editar
+listar usuarios existentes
+
 
 
 
